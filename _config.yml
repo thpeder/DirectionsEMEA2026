@@ -1,0 +1,60 @@
+title: "Building Agents in Business Central"
+tagline: "Directions EMEA 2026 Workshop"
+description: "A hands-on workshop for building AI-powered agents in Microsoft Dynamics 365 Business Central."
+
+url: "https://thpeder.github.io"
+baseurl: "/DirectionsEMEA2026"
+
+permalink: pretty
+
+stages:
+  - num: 1
+    title: "Introduction & Setup"
+    url: "/stages/01-introduction/"
+    description: "Get your environment ready and understand the workshop objectives."
+    icon: "🚀"
+  - num: 2
+    title: "Your First Agent"
+    url: "/stages/02-first-agent/"
+    description: "Create a basic Business Central agent from scratch."
+    icon: "🤖"
+  - num: 3
+    title: "Customizing the Agent's Profile"
+    url: "/stages/03-profile-customization/"
+    description: "Use profile customization to control what your agent can see and access."
+    icon: "🎨"
+  - num: 4
+    title: "Inspecting Task Logs"
+    url: "/stages/04-testing/"
+    description: "Use task log entries to understand how your agent reasoned through a task."
+    icon: "🔍"
+  - num: 5
+    title: "Make It Your Own"
+    url: "/stages/05-publishing/"
+    description: "Adapt the agent for your own product and explore AppSource integration."
+    icon: "🛠️"
+  - num: 6
+    title: "Export & Import"
+    url: "/stages/06-export-import/"
+    description: "Export your agent as an XML definition and import it into a new agent."
+    icon: "📤"
+  - num: 7
+    title: "Agent in AL"
+    url: "/stages/07-al-agent/"
+    description: "Convert your exported agent to a deployable AL extension."
+    icon: "💻"
+  - num: 8
+    title: "Customizing the Setup Page"
+    url: "/stages/08-setup-page/"
+    description: "Add per-environment configuration fields to your agent's setup page."
+    icon: "⚙️"
+  - num: 9
+    title: "Programmatic Tasks"
+    url: "/stages/09-programmatic-tasks/"
+    description: "Trigger agent tasks from page actions and business events using AL code."
+    icon: "⚡"
+  - num: 10
+    title: "Bring Your Own App"
+    url: "/stages/10-bring-your-own-app/"
+    description: "Integrate your agent with your own AL extension end to end."
+    icon: "🔌"
