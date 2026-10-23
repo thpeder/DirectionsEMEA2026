@@ -25,7 +25,7 @@ Everything in this stage is UI only — no AL needed. By the end you'll have a w
 <div class="task-card">
   <div class="task-card-header">
     <div class="task-number">1</div>
-    <h3>Open the agent designer</h3>
+    <h3>Open Agent Design</h3>
   </div>
   <p>In the top-right navigation bar of your Role Centre, look for the <strong>+</strong> (plus) icon. Select it, then choose <strong>Agent</strong> &gt; <strong>Create</strong>.</p>
   <p><img src="{{ '/assets/images/create_icon.png' | relative_url }}" alt="The plus icon used to create a new agent" style="max-width:100%; border:1px solid var(--border); border-radius:var(--radius-lg); margin-top:0.75rem;" /></p>

@@ -20,9 +20,9 @@ Freeform time. Take what you've built and make it relevant to your product — t
 <div class="task-card">
   <div class="task-card-header">
     <div class="task-number">1</div>
-    <h3>Open your agent in the Designer</h3>
+    <h3>Open your agent in Agent Design</h3>
   </div>
-  <p>Go to the <strong>Agents (preview)</strong> page and open your agent from Stage 2 in the Agent Designer.</p>
+  <p>Go to the <strong>Agents (preview)</strong> page and open your agent from Stage 2 in Agent Design.</p>
 </div>
 
 <div class="task-card">
