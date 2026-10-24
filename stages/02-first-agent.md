@@ -79,10 +79,7 @@ Everything in this stage is UI only — no AL needed. By the end you'll have a w
     <div class="task-number">6</div>
     <h3>Write the agent's instructions</h3>
   </div>
-  <p>Under <strong>Instructions for the agent</strong>, select <strong>Edit instructions</strong> and enter the following:</p>
-  <pre><code>You are a helpful Business Central assistant.
-When given a task, look up the requested information
-and provide a clear, concise summary to the user.</code></pre>
+  <p>Under <strong>Instructions for the agent</strong>, select <strong>Edit instructions</strong> and enter an instruction</p>
   <p>Keep them short and specific — you'll refine them in later stages.</p>
 </div>
 
@@ -109,8 +106,7 @@ and provide a clear, concise summary to the user.</code></pre>
     <div class="task-number">8</div>
     <h3>Run a task</h3>
   </div>
-  <p>Select the <strong>Run task</strong> action. In the dialog, enter a simple task for the agent — for example:</p>
-  <pre><code>List the top 5 customers by name.</code></pre>
+  <p>Select the <strong>Run task</strong> action. In the dialog, enter a simple task for the agent</p>
   <p>Confirm and hit <strong>Start</strong> — watch the agent pick it up.</p>
 </div>
 

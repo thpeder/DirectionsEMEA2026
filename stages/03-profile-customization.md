@@ -85,7 +85,6 @@ An agent can only interact with what its profile exposes. Here we'll hide an act
     <h3>Re-run the original task</h3>
   </div>
   <p>Run a new task with the same prompt as Stage 2:</p>
-  <pre><code>List the top 5 customers by name.</code></pre>
 </div>
 
 <div class="task-card">
